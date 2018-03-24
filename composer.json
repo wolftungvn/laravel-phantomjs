@@ -1,5 +1,5 @@
 {
-  "name": "josh/laravel-phantomjs",
+  "name": "wolftungvn/laravel-phantomjs",
   "description": "Use phantom-js in laravel",
   "keywords": ["phantomjs-php", "phantomjs","phantom-js", "laravel"],
   "license": "MIT",
@@ -11,6 +11,11 @@
     {
       "name": "Alireza Josheghani",
       "email": "josheghani.dev@gmail.com"
+    },
+    {
+        "name": "Tung Chung",
+        "email": "kokocaca113@gmail.com",
+        "role": "Developer"
     }
   ],
   "autoload": {
@@ -26,7 +31,7 @@
   "require": {
     "php": "^7.1",
     "laravel/framework": "^5",
-    "jonnyw/php-phantomjs": "^4"
+    "wolftungvn/php-phantomjs": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.0"
